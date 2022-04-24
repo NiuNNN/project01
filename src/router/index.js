@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-// 导入需要的组件
+// 导入需要的组件 Home，User
 import Home from '@/views/Home/Home.vue'
 import User from '@/views/User/User.vue'
 
